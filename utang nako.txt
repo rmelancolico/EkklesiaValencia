@@ -1,3 +1,2 @@
-geomel 950
-
-ronnel 250 + 
+ronnel 2000
+gerry  3000
