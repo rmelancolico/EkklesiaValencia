@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>file:///E:/Documents/Ekklesia%20Valencia/Videos%20for%20background/A%20Thousand%20Hallelujahs%20(Live)%20by%20Brooke%20Ligertwood%20[Lyric%20Video].mp4</location>
+			<duration>309360</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Documents/Ekklesia%20Valencia/Videos%20for%20background/Broken%20Vessels%20(Amazing%20Grace)%20[Official%20Lyric%20Video]%20-%20Hillsong%20Worship.mp4</location>
+			<duration>569029</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Documents/Ekklesia%20Valencia/Videos%20for%20background/Chris%20Tomlin%20-%20Holy%20Forever%20(Lyric%20Video).mp4</location>
+			<duration>308268</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Documents/Ekklesia%20Valencia/Videos%20for%20background/I%20Speak%20Jesus%20(Lyric%20Video)%20.mp4</location>
+			<duration>311389</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Documents/Ekklesia%20Valencia/Videos%20for%20background/Jesus%20Culture%20-%20Holy%20Spirit%20(Official%20Lyric%20Video).mp4</location>
+			<duration>489430</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>file:///E:/Documents/Ekklesia%20Valencia/Videos%20for%20background/Same%20God%20-%20Elevation%20Worship%20ft.%20Jonsal%20Barrientes%20(Lyrics).mp4</location>
+			<duration>482883</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+	</extension>
+</playlist>
